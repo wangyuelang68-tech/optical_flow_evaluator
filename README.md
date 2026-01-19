@@ -1,2 +1,9 @@
-# optical_flow_evaluator
-这是一个完整的光流质量评估工具箱，支持： 1. 基本统计信息分析 2. 平滑度评估 3. 光度一致性检查 4. 视觉质量评估 5. 与真值比较（如有） 6. 综合质量评分 7. 批量评估多个算法 8. 可视化结果
+This is a complete optical flow quality evaluation toolbox that supports the following functionalities:
+1.Basic statistical information analysis
+2.Smoothness evaluation
+3.Photometric consistency check
+4.Visual quality evaluation
+5.Comparison with ground truth (if available)
+6.Comprehensive quality scoring
+7.Batch evaluation of multiple algorithms
+8.Result visualization
